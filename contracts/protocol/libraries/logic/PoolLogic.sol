@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: BUSL-1.1
-pragma solidity ^0.8.10;
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.26;
 
 import {GPv2SafeERC20} from '../../../dependencies/gnosis/contracts/GPv2SafeERC20.sol';
 import {Address} from '../../../dependencies/openzeppelin/contracts/Address.sol';

@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: BUSL-1.1
-pragma solidity ^0.8.10;
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.26;
 
 import {DataTypes} from '../protocol/libraries/types/DataTypes.sol';
 import {IDefaultInterestRateStrategy} from '../interfaces/IDefaultInterestRateStrategy.sol';

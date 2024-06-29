@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: BUSL-1.1
-pragma solidity ^0.8.10;
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.26;
 
 import {DataTypes} from '../types/DataTypes.sol';
 import {ReserveConfiguration} from '../configuration/ReserveConfiguration.sol';
